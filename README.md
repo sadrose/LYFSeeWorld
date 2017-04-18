@@ -1,5 +1,5 @@
 # LYFSeeWorld
 仿写openeyes app
 ***
-![Alt text](https://github.com/RocketsChen/CDDStore/raw/master/CDDStoreGif.gif)
+![Alt text](https://github.com/sadrose/LYFSeeWorld/blob/master/seeworld5.gif)
 ***
